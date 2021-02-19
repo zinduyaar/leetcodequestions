@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{39EC0633-7864-47E3-897F-9F887EC64449}"
+	ProjectSection(SolutionItems) = preProject
+		TwoSum.cs = TwoSum.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{5B51814C-4EAA-4B4C-A2F2-6B221EFADFA7}"
 EndProject
